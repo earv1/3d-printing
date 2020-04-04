@@ -1,0 +1,67 @@
+#+TITLE: Prints
+
+* Prusa Enhancements
+|--------------------------+-------------------------------------------|
+| Description              | Link                                      |
+|--------------------------+-------------------------------------------|
+| Raspberry Pi Cam Mount   | https://www.thingiverse.com/thing:3114849 |
+| Toolbox, bottom two side | https://www.thingiverse.com/thing:4223581 |
+| Toolbox, bottom one side | https://www.thingiverse.com/thing:4205312 |
+| Toolbox, power supply    | https://www.thingiverse.com/thing:4205312 |
+| Raspberry Pi Case        | https://www.thingiverse.com/thing:3909388 |
+| Filament Dust Filter     | https://www.thingiverse.com/thing:190118  |
+| TNut M3 2020 profile     | https://www.thingiverse.com/thing:1073567 |
+
+
+* Organization
+|------------------------+-------------------------------------------|
+| Description            | Link                                      |
+|------------------------+-------------------------------------------|
+| Screw Organizer        | https://www.thingiverse.com/thing:796504  |
+| Jumper Cable Organizer | https://www.thingiverse.com/thing:3567126 |
+| Hive Modular Drawers   | https://www.thingiverse.com/thing:1743145 |
+| Mini Drawers Ultimate  | https://www.thingiverse.com/thing:1889761 |
+| Cable Organizer        | https://www.thingiverse.com/thing:3396905 |
+
+
+* Maker Tools
+|-----------------------------------+-------------------------------------------+---|
+| Description                       | Link                                      |   |
+|-----------------------------------+-------------------------------------------+---|
+| Solder Fume Extractor             | https://www.thingiverse.com/thing:69729   |   |
+| Flex Battery Holder               | https://www.thingiverse.com/thing:456900  |   |
+| Screw Organizer                   | https://www.thingiverse.com/thing:796504  |   |
+| Reittec polisher                  | https://www.thingiverse.com/thing:4076827 |   |
+| Soldering Fingers                 | https://www.thingiverse.com/thing:1725308 |   |
+| PVC pipe construction set         | https://www.thingiverse.com/thing:932732  |   |
+| Drill press Dremel, super support | https://www.thingiverse.com/thing:754248  |   |
+| Drill press Dremel, cheap         | https://www.thingiverse.com/thing:4148260 |   |
+| Sand Belt Dremel                  | https://www.thingiverse.com/thing:3302314 |   |
+
+* Music
+|-------------+-------------------------------------------|
+| Description | Link                                      |
+|-------------+-------------------------------------------|
+| Capo        | https://www.thingiverse.com/thing:8554 |
+|             |                                           |
+* Fun
+|------------------------+-------------------------------------------|
+| Description            | Link                                      |
+|------------------------+-------------------------------------------|
+| Dice Tower             | https://www.thingiverse.com/thing:3114849 |
+| Robotic Arm            | https://www.thingiverse.com/thing:1454048 |
+| Quad Copter            | https://www.thingiverse.com/thing:629338  |
+| Quad Copter, Foldable  | https://www.thingiverse.com/thing:1604440 |
+| Brabeast               | https://www.thingiverse.com/thing:48087   |
+| Drawing Robot          | https://www.thingiverse.com/thing:2349232 |
+| Hovership MHQ2         | https://www.thingiverse.com/thing:511668  |
+| Okay 2 Synth           | https://www.thingiverse.com/thing:2760653 |
+| Violin, it sounds good | https://openfabpdx.com/modular-fiddle/    |
+|                        |                                           |
+
+* Household
+|----------------+----------------------------------------|
+| Description    | Link                                   |
+|----------------+----------------------------------------|
+| Turbine Faucet | https://www.thingiverse.com/madsoul666 |
+|                |                                        |
